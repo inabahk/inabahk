@@ -1,46 +1,71 @@
-# Hi, I'm Inabah Khan 👋
+# 👋 Hi, I'm Inabah Khan
 
-🎓 B.E. CSE (AI & ML) @ Methodist College of Engineering & Technology, Hyderabad | Batch of 2027
-🌍 Aspiring MS Student | Germany-bound 🇩🇪
-💡 Into: Front-End Dev · AI Tools · Product Thinking
-🏆 Winner — GDG She Builds Web Dev Competition 2026
-
----
-
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+🎓 B.E. CSE (AI & ML) @ Methodist College of Engineering & Technology, Hyderabad (2023–2027)  
+🌍 Aspiring MS Student (Germany 🇩🇪)  
+💡 Interested in: Front-End Development · AI Tools · Automation · Product Thinking  
 
 ---
 
-## 🏆 Achievements
+## 🚀 About Me  
 
-| 🥇 | **Winner — She Builds Web Dev Competition** |
-|----|---------------------------------------------|
-| 🏛️ | Google Developer Groups On Campus × MCET |
-| 📅 | 7th March 2026 (International Women's Day) |
-| 💡 | Theme: Next-Gen E-Commerce · Team: The Coder's Crew |
+I’m a student who enjoys building projects and exploring how technology can solve real-world problems.  
+Currently learning and working on **AI-based tools, automation systems, and web development**.  
 
----
-
-## 🚀 Featured Projects
-
-| Project | What it does | Tech |
-|---------|-------------|------|
-| [AI Resume Analyzer](https://github.com/inabahk/ai-resume-analyzer) | Matches resumes to job descriptions with AI scoring | Python, NLP, Flask |
-| [Website Monitor Bot](https://github.com/inabahk/website-monitor-bot-) | Tracks uptime & latency, triggers alerts | Python, Automation |
-| [Task Automation Agent](https://github.com/inabahk/task-automation-agent) | Automates repetitive workflows | Python |
+I like turning ideas into working projects and continuously improving my skills.
 
 ---
 
-## 📫 Connect with Me
+## 🛠️ Tech Stack  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammed-inabah-khan-0696ba3a5)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:inabahk@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/inabahk)
+- **Languages:** Python, JavaScript, SQL  
+- **Web:** HTML, CSS, React (basic)  
+- **Frameworks:** Flask, FastAPI  
+- **Tools:** GitHub, VS Code  
+- **Concepts:** REST APIs, Automation, OOP  
+
+---
+
+## 🏆 Achievements  
+
+🥇 Winner — GDG She Builds Web Development Competition 2026  
+🏛️ Google Developer Groups On Campus × MCET  
+📅 Built project for International Women's Day  
+
+---
+
+## 🚀 Featured Projects  
+
+### 🤖 Task Automation Agent  
+- Built a system that takes a task and breaks it into steps  
+- Added **human approval before execution**  
+- Helps automate simple workflows  
+
+🔗 https://github.com/inabahk/task-automation-agent  
+
+---
+
+### 📊 AI Resume Analyzer  
+- Analyzes resumes and compares them with job descriptions  
+- Gives suggestions to improve match  
+
+---
+
+### 🌐 Website Monitor Bot  
+- Tracks website status and alerts for downtime  
+- Helps in basic monitoring and automation  
+
+---
+
+## 📫 Connect With Me  
+
+🔗 LinkedIn: https://linkedin.com/in/mohammed-inabah-khan-0696ba3a5  
+📧 Email: inabahk@gmail.com  
+💻 GitHub: https://github.com/inabahk  
+
+---
+
+## 🌱 Currently Learning  
+
+- AI Agents & Automation  
+- Backend Development  
+- Improving problem-solving skills  
