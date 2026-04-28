@@ -10,7 +10,7 @@
 
 I’m a student who enjoys building projects and exploring how technology can solve real-world problems.  
 
-Currently focused on building **AI tools, automation systems, and web applications** that are actually useful (not just tutorial clones 👀).
+Currently focused on building **AI tools, automation systems, and web applications** that are useful .
 
 ---
 
