@@ -11,8 +11,6 @@
 I’m a student who enjoys building projects and exploring how technology can solve real-world problems.  
 Currently learning and working on **AI-based tools, automation systems, and web development**.  
 
-I like turning ideas into working projects and continuously improving my skills.
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -29,7 +27,6 @@ I like turning ideas into working projects and continuously improving my skills.
 
 🥇 Winner — GDG She Builds Web Development Competition 2026  
 🏛️ Google Developer Groups On Campus × MCET  
-📅 Built project for International Women's Day  
 
 ---
 
@@ -37,10 +34,11 @@ I like turning ideas into working projects and continuously improving my skills.
 
 ### 🤖 Task Automation Agent  
 - Built a system that takes a task and breaks it into steps  
-- Added **human approval before execution**  
-- Helps automate simple workflows  
+- Added human approval before execution  
+- Automates simple workflows  
 
-🔗 https://github.com/inabahk/task-automation-agent  
+🔗 GitHub: https://github.com/inabahk/task-automation-agent  
+🌐 Live Demo: https://task-automation-agent-4.onrender.com/
 
 ---
 
@@ -48,12 +46,16 @@ I like turning ideas into working projects and continuously improving my skills.
 - Analyzes resumes and compares them with job descriptions  
 - Gives suggestions to improve match  
 
+🔗 GitHub: https://github.com/inabahk  
+🌐 Live Demo: https://ai-resume-analyzer-3-r3y5.onrender.com/
 ---
 
 ### 🌐 Website Monitor Bot  
 - Tracks website status and alerts for downtime  
-- Helps in basic monitoring and automation  
+- Helps in monitoring and automation  
 
+🔗 GitHub: https://github.com/inabahk  
+🌐 Live Demo: https://website-monitor-bot-2.onrender.com/
 ---
 
 ## 📫 Connect With Me  
@@ -68,4 +70,4 @@ I like turning ideas into working projects and continuously improving my skills.
 
 - AI Agents & Automation  
 - Backend Development  
-- Improving problem-solving skills  
+- Problem-solving (DSA basics)  
